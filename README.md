@@ -19,7 +19,7 @@ Análisis exploratorio de datos sobre las causas de la migración en México y e
 ### *Contenido notebook EDA* 
 
 ---
-- [ 1. ANÁLISIS EXPLORATORIO DE DATOS (EDA):](.src/main.ipynb/EDA_Migracion_Mexico.ipynb#1)
+- [ 1. ANÁLISIS EXPLORATORIO DE DATOS (EDA):](src/main.ipynb/EDA_Migracion_Mexico.ipynb#1)
     - [1.1. Hipótesis](./EDA_Migracion_Mexico.ipynb#1)
     - [1.2. Procedimiento tratamiento de datos](./EDA_Migracion_Mexico.ipynb#1)
     - [1.3. Análisis EDA](./EDA_Migracion_Mexico.ipynb#1)
