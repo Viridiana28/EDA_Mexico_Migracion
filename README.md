@@ -3,6 +3,7 @@ Análisis exploratorio de datos sobre las causas de la migración en México y e
 
 
 ![image_2.png](./image_2.png)
+<img src="/image_2.png" />
 
 
 ## **Estructura** del proyecto  
