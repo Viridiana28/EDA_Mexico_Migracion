@@ -1,0 +1,9 @@
+
+
+def calcular_porcentaje(df, columna_nombre, total_columna):
+  if columna_nombre in df.columns:
+        nueva_columna = f"% {columna_nombre}"
+        df[nueva_columna] = round((df[columna_nombre] / df[total_columna]), 3)
+  else:
+        print(f"La columna '{columna_nombre}' no existe en el DataFrame.")
+  return df
