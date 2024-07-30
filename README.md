@@ -2,9 +2,7 @@
 Análisis exploratorio de datos sobre las causas de la migración en México y el lugar de residencia en un periodo de tiempo comprendido entre 2015-2020. Los datos utilizados provienen de excel de [INEGI](https://www.inegi.org.mx/programas/ccpv/2020/default.html#tabulados) y leídos mediante extraídos mediante [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)
 
 
-![image_2.png](./image_2.png) 
-
-<img src="/img/Image_2.png"/>
+<img src="/src/img/Image_2.png"/>
 
 
 ## **Estructura** del proyecto  
